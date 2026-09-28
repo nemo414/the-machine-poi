@@ -1,0 +1,10 @@
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+desktop.ini
+
+comvi/events.csv
+comvi/known_faces/
+comvi/admin_face.jpg
+comvi/models/
